@@ -1,0 +1,131 @@
+1. Regression test optimization - Revisit the regression test cases each release, what is relavant and not relevant 
+Optimized the project team with 3000 test cases to 1100 test cases. This will reduced.
+
+2. Test data optimization - we need to know what is the test data 
+
+
+1.Continous Integration 
+2. Automation testing
+3.Loosely coupled Architectures
+4. Service virtualization
+5. Automated deployment.
+
+
+Devops 
+
+1. source code control
+2. Automation 
+3. Testing early and oftern
+4. small increment of development
+5. Continous improvement.
+
+
+1 Test driven development
+2. small releases
+3. Continous Integration 
+4. closlely working with process and developers
+5. Coding standards
+
+
+Deveops
+
+Xp/Agile engineering + Capability to Operatelize = Devops
+
+
+SAFE Agile
+
+1. Safe is frame
+
+1. Portolifo
+2. Program
+3. Team
+
+
+
+Plan 
+
+Daily - discussion on the progress
+
+
+
+Agile Release Train
+---------------------
+
+Program Increment - PI.
+
+
+Alignment
+1.Release planning
+2.SCrum of scrument
+3.dependency of the team
+4. Objectives/Risks and deliverables.
+
+Each PI -
+
+1. 4 iteration 
+5. Innovation /
+
+Hack- a-thon.
+
+Cross training resources
+
+
+Agile mindset and Practices
+Launch Release trains.
+
+
+Planning/Tracking - Work Distribution
+
+Team Organization  across location.
+
+Cultural Differences
+
+Communication & Collaboration 
+
+Teams in different Time Zones
+
+Lack of Face to Face.
+
+Multiple Sign off.
+
+
+Rotate of key roels between 
+
+1.Co-located.
+
+Development, testing and business users are co-located in the same location. Goverrnment regulators 
+
+
+
+
+Agile Project
+
+
+Processes & Tools
+Comprehensive Documentation
+Contract Negotiation 
+Performing to Plan.
+
+
+Agile Methodology
+
+1. Scrum
+2.Scaled Agiled Frame work.
+
+
+Sprints
+Daily Stand ups
+Scrum Master
+Story Points
+Stories
+Collocated
+Automated Acceptance Testing
+
+2 Hard Skills
+------------
+
+1. Think Small.
+2.
+
+
+
