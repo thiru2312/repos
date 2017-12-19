@@ -1,0 +1,11 @@
+ADM for testing.
+---------------
+
+Test estimator address some additional questions that couldn't be answered with the ADM
+
+- Regression testing
+- Defect management
+- Test Data/Environment management.
+- Test Automation 
+- The split between Test preparation and execution.
+
