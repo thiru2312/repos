@@ -6,6 +6,6 @@ what changes has been done in new_test can be seen using git diff command
 Have a nice days to discuss about branch strategy
 
 
-file has been added to identify difference between fetch and pull
+line has been added to identify difference between fetch and pull
 
 
